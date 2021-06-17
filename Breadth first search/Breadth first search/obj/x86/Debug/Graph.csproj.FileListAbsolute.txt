@@ -1,0 +1,5 @@
+c:\users\lida\documents\visual studio 2010\Projects\Breadth first search\Breadth first search\obj\x86\Debug\Breadth first search.exe
+c:\users\lida\documents\visual studio 2010\Projects\Breadth first search\Breadth first search\obj\x86\Debug\Breadth first search.pdb
+c:\users\lida\documents\visual studio 2010\Projects\Breadth first search\Breadth first search\bin\Debug\Breadth first search.exe
+c:\users\lida\documents\visual studio 2010\Projects\Breadth first search\Breadth first search\bin\Debug\Breadth first search.pdb
+C:\Users\LiDa\Documents\Visual Studio 2010\Projects\Breadth first search\Breadth first search\obj\x86\Debug\Graph.csprojResolveAssemblyReference.cache
